@@ -23,5 +23,5 @@ clearBtn.onclick = function (e) {
     // update the text of the input label --
     ex2Label.innerText = "";
     // update the value of the input field
-    ex1Input.value = "";
+    ex2Input.value = "";
 };
